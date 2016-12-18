@@ -11,7 +11,7 @@
     ],
     "require": {
 		"deluxcms/member" : "*",
-		"deluxcms/authclient" : "*",
+		"deluxcms/authclient" : "*"
 	},
     "autoload": {
         "psr-4": { "deluxcms\\auth\\": "" }
